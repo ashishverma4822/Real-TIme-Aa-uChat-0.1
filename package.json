@@ -8,7 +8,7 @@
       "start": "node app.js"
    },
    "keywords": [],
-   "author": "Mehedi Islam Ripon",
+   "author": "Aashish",
    "license": "ISC",
    "dependencies": {
       "express": "^4.17.1",
